@@ -84,6 +84,16 @@ This tool exists because:
 
 We built drift for ourselves first. Now it's yours.
 
+## Claude Code Plugin
+
+Install drift as a Claude Code plugin (no pip required — skill invocable directly from Claude):
+
+```
+/plugin marketplace add uzucky/drift
+```
+
+Then invoke with `/drift` inside any Claude Code session.
+
 ## License
 
 MIT

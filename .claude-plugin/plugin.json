@@ -1,0 +1,9 @@
+{
+  "name": "drift",
+  "description": "Detect when your AI agent's configuration has drifted from reality. Scans CLAUDE.md, ACTIVE_PLAN.md, and memory directories for dead file references, stale environment claims, orphan memory files, stale handovers, outdated in-progress tasks, and oversized config files.",
+  "version": "0.1.0",
+  "author": "uzucky",
+  "homepage": "https://github.com/uzucky/drift",
+  "repository": "https://github.com/uzucky/drift",
+  "license": "MIT"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "drift Plugin Marketplace",
+  "description": "Self-hosted plugin marketplace for drift — AI configuration drift detector",
+  "plugins": [
+    {
+      "name": "drift",
+      "description": "Detect when your AI agent's configuration has drifted from reality. Runs in under 2 seconds, no LLM calls, 6 drift types detected.",
+      "repository": "uzucky/drift",
+      "skill": "drift"
+    }
+  ]
+}
